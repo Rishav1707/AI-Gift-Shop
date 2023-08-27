@@ -1,0 +1,27 @@
+.header {
+    position: sticky;
+    z-index: 1;
+    display: flex;
+    padding: 0.5rem 2rem;
+    justify-content: space-between;
+}
+
+.logo img {
+    width: 20rem;
+}
+
+.navlist {
+    display: flex;
+    align-items: center;
+}
+
+.navlist ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
+
+.navlist ul a {
+    text-decoration: none;
+    color: #fff;
+}
