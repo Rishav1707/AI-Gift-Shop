@@ -1,5 +1,5 @@
 import "./styles/HomeVideo.css";
-import video from "../assets/Home_video.mp4";
+import video from "../assets/video/Home_video.mp4";
 
 const HomeVideo = () => {
   return (
@@ -11,6 +11,12 @@ const HomeVideo = () => {
       </div>
       <div className="video-text">
         <h1>Your Personal Gift Advisor</h1>
+        <p>
+          <b>AI</b>-Powered Gifting: Where Thoughtfulness Meets Innovation
+        </p>
+      </div>
+      <div className="expand-more">
+        <span className="material-symbols-outlined">expand_more</span>
       </div>
     </>
   );

@@ -1,9 +1,9 @@
 import Header from "./components/Header";
-import Footer from "./components/Footer";
 import GiftCard from "./components/GiftCard";
 import TrendingGifts from "./components/TrendingGifts";
 import ContactForm from "./components/ContactForm";
-import AIchat from "./components/AIchat";
+import Footer from "./components/Footer";
+import AIGiftIdeas from "./components/AIGiftIdeas";
 import HomeVideo from "./components/HomeVideo";
 import "./App.css";
 
@@ -12,7 +12,7 @@ const App = () => {
     <div className="App">
       <Header />
       <HomeVideo />
-      <AIchat />
+      <AIGiftIdeas />
       <GiftCard />
       <TrendingGifts />
       <ContactForm />
