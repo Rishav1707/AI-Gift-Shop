@@ -1,5 +1,5 @@
-import { useState, useEffect } from "react";
 import logo from "../assets/images/AI-logo.png";
+import { useState, useEffect } from "react";
 import "./styles/Header.css";
 
 const Header = () => {
@@ -35,9 +35,6 @@ const Header = () => {
           </li>
           <li>
             <a href="#trendinggifts">TrendingGifts</a>
-          </li>
-          <li>
-            <a href="#contact">Contact Us</a>
           </li>
         </ul>
       </div>

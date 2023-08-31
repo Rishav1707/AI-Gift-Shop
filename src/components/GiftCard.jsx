@@ -1,10 +1,10 @@
-import "./styles/GiftCard.css";
 import necklace from "../assets/images/necklace.jpg";
-import candles from "../assets/images/candles.jpg";
 import bracelet from "../assets/images/bracelet.jpg";
 import earrings from "../assets/images/earrings.jpg";
-import ring from "../assets/images/ring.jpg";
+import candles from "../assets/images/candles.jpg";
 import watch from "../assets/images/watch.jpg";
+import ring from "../assets/images/ring.jpg";
+import "./styles/GiftCard.css";
 
 const GiftCard = () => {
   const cards = [

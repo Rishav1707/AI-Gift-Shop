@@ -1,10 +1,8 @@
-import Header from "./components/Header";
-import GiftCard from "./components/GiftCard";
 import TrendingGifts from "./components/TrendingGifts";
-import ContactForm from "./components/ContactForm";
-import Footer from "./components/Footer";
 import AIGiftIdeas from "./components/AIGiftIdeas";
 import HomeVideo from "./components/HomeVideo";
+import GiftCard from "./components/GiftCard";
+import Header from "./components/Header";
 import "./App.css";
 
 const App = () => {
@@ -15,8 +13,6 @@ const App = () => {
       <AIGiftIdeas />
       <GiftCard />
       <TrendingGifts />
-      <ContactForm />
-      <Footer />
     </div>
   );
 };

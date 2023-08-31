@@ -1,5 +1,5 @@
-import "./styles/HomeVideo.css";
 import video from "../assets/video/Home_video.mp4";
+import "./styles/HomeVideo.css";
 
 const HomeVideo = () => {
   return (
