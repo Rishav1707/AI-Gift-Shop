@@ -75,7 +75,7 @@ const TrendingGifts = () => {
             <SplideSlide key={index}>
               <div className="trending-gift">
                 <div className="trending-inner-gift">
-                  <img src={gift.image} alt={gift.name} />
+                  <img src={gift.image} alt={gift.name} loading="lazy" />
                 </div>
               </div>
             </SplideSlide>
