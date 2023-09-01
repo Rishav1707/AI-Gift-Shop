@@ -22,7 +22,7 @@ const AIGiftIdeas = () => {
                 type="text"
                 className="form-control"
                 id="relationship"
-                placeholder="Enter relationship"
+                placeholder="Wife, Husband, Friend, etc."
                 required
               />
 
@@ -31,7 +31,7 @@ const AIGiftIdeas = () => {
                 type="number"
                 className="form-control"
                 id="age"
-                placeholder="Enter age"
+                placeholder="10, 24, 40, etc."
                 required
               />
 
@@ -40,7 +40,7 @@ const AIGiftIdeas = () => {
                 type="text"
                 className="form-control"
                 id="occasion"
-                placeholder="Enter occasion"
+                placeholder="Birthday, Anniversary, etc."
                 required
               />
 
@@ -49,7 +49,7 @@ const AIGiftIdeas = () => {
                 type="text"
                 className="form-control"
                 id="interest"
-                placeholder="Enter interest"
+                placeholder="Sports, Music, etc."
                 required
               />
 
@@ -58,7 +58,7 @@ const AIGiftIdeas = () => {
                 type="number"
                 className="form-control"
                 id="budget"
-                placeholder="Enter budget"
+                placeholder="1000, 5000, 10000, etc."
                 required
               />
             </div>
