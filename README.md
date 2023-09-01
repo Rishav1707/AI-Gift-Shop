@@ -1,6 +1,6 @@
 # AI Gift Shop
 
-![aigiftshop](https://github.com/Rishav1707/AI-Gift-Shop/assets/97666287/c46f81ad-1b46-445a-af44-f8d0859dc259)
+https://github.com/Rishav1707/AI-Gift-Shop/assets/97666287/c46f81ad-1b46-445a-af44-f8d0859dc259
 
 Welcome to the AI Gift Shop project! This website showcases the integration of AI to provide a unique user experience in a gift shop setting. Users can explore gift recommendations, trending items, and find useful resources for gift-giving.
 
