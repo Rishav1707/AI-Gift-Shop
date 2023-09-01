@@ -9,6 +9,7 @@ Welcome to the AI Gift Shop project! This website showcases the integration of A
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -54,6 +55,17 @@ To run this project locally, you need to have [Node.js](https://nodejs.org/) and
    ```
 
 2. Open your web browser and visit http://localhost:5173 to view the AI Gift Shop website.
+
+## Technologies Used
+
+The AI Gift Shop project utilizes a combination of technologies and tools to create a unique and engaging gift shopping experience.
+
+1. **React.js:** A JavaScript library for building user interfaces. React is used to create the frontend of the AI Gift Shop, allowing for the development of dynamic and interactive web pages.
+
+2. **react-splide:** A responsive slider/carousel library for React, used to create visually appealing carousels showcasing trending gift items.
+
+3. **CSS (Cascading Style Sheets):** Used for styling the components and ensuring a visually pleasing and consistent design.
+
 
 ## Contributing
 
