@@ -3,6 +3,7 @@ import AIGiftIdeas from "./components/AIGiftIdeas";
 import HomeVideo from "./components/HomeVideo";
 import GiftCard from "./components/GiftCard";
 import Header from "./components/Header";
+import Footer from "./components/Footer";
 import "./App.css";
 
 const App = () => {
@@ -13,6 +14,7 @@ const App = () => {
       <AIGiftIdeas />
       <GiftCard />
       <TrendingGifts />
+      <Footer />
     </div>
   );
 };
